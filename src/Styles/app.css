@@ -1,0 +1,16 @@
+
+input{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: rgba(190, 208, 245, 0.281);
+    border: 2px solid rgba(255, 81, 0, 0.623);
+    border-radius: 4px;
+}
+
+.centralizeContent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

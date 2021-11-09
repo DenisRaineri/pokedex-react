@@ -1,0 +1,11 @@
+#background{
+    background-image: url(assets/background.png)
+}
+
+#background-transparent{
+    background-image: url(assets/background-transparent.png)
+}
+
+#background-error{
+    background-image: url(assets/background-transition.png)
+}
